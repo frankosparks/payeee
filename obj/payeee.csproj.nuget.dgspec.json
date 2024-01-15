@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/usr/payeee/payeee.csproj": {}
+  },
+  "projects": {
+    "/home/usr/payeee/payeee.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/usr/payeee/payeee.csproj",
+        "projectName": "payeee",
+        "projectPath": "/home/usr/payeee/payeee.csproj",
+        "packagesPath": "/home/usr/.nuget/packages/",
+        "outputPath": "/home/usr/payeee/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/usr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

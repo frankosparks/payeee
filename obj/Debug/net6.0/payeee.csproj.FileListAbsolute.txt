@@ -1,0 +1,14 @@
+/home/usr/payeee/bin/Debug/net6.0/payeee
+/home/usr/payeee/bin/Debug/net6.0/payeee.deps.json
+/home/usr/payeee/bin/Debug/net6.0/payeee.runtimeconfig.json
+/home/usr/payeee/bin/Debug/net6.0/payeee.dll
+/home/usr/payeee/bin/Debug/net6.0/payeee.pdb
+/home/usr/payeee/obj/Debug/net6.0/payeee.GeneratedMSBuildEditorConfig.editorconfig
+/home/usr/payeee/obj/Debug/net6.0/payeee.AssemblyInfoInputs.cache
+/home/usr/payeee/obj/Debug/net6.0/payeee.AssemblyInfo.cs
+/home/usr/payeee/obj/Debug/net6.0/payeee.csproj.CoreCompileInputs.cache
+/home/usr/payeee/obj/Debug/net6.0/payeee.dll
+/home/usr/payeee/obj/Debug/net6.0/refint/payeee.dll
+/home/usr/payeee/obj/Debug/net6.0/payeee.pdb
+/home/usr/payeee/obj/Debug/net6.0/payeee.genruntimeconfig.cache
+/home/usr/payeee/obj/Debug/net6.0/ref/payeee.dll
