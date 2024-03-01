@@ -1,0 +1,5 @@
+This is a simple PAYE calculator.
+One is prompted to input their gross salary.
+One is then prompted to enter their allowances.
+The taxable income is calculated using the set rates.
+Finaly the gross salary,allowances,taxable income,personal relief and calculated PAYE are displayed.
